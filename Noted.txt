@@ -1,0 +1,2 @@
+Jadi diFramework kantor saya untuk mengerjakan testcasenya diExcel lalu keyword untuk fungsinya diselenium.
+dan setelah sudah selesai, diRunning memakai Selenium. dan Mengasilkan WP, WP nya sudah terbentuk Otomatis.
